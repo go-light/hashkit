@@ -1,0 +1,2 @@
+# hashkit
+Hash
