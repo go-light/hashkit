@@ -1,2 +1,1 @@
 # hashkit
-Hash
